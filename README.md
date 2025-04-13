@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there, I'm Watari 👋</h1>
+<h1 align="center">Hey there, I'm Inam Irshad 👋</h1>
 <p align="center">Full Stack Developer | Curious Coder | Team Leader | Sleepless Hustler 💻⚡</p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 ## 🚀 About Me
 
 - 🧠 Passionate about building meaningful, real-world tech.
-- 🔧 Full Stack Dev | MongoDB | React | Express | Node | Java | JS
-- 👨‍💻 Team Lead at Dakapathi – Building smarter apps for a better world.
-- 🌍 Language-friendly: Supporting Sinhala, Tamil, and English.
+- 🔧 Full Stack Dev | MongoDB | React | Express | Node | Java | JS | TS
+- 👨‍💻 Team Lead – Building smarter apps for a better world.
+- 🌍 Language-friendly: Supporting English and Sinhala
 
 ---
 
@@ -45,8 +45,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsInam&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsInam&layout=compact&theme=radical" height="170px"/>
 </p>
 
 ---
@@ -63,13 +63,13 @@
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/inam-irshad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:inamirshad2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-website.com" target="_blank">
+  <a href="https:Inam_Irshad.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
