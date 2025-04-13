@@ -3,10 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&width=480&lines=Full+Stack+Developer;Curious+Coder;Team+Leader;Sleepless+Hustler+%F0%9F%92%BB%E2%9A%A1" alt="Typing SVG" />
 </p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ItsInam&label=Profile%20Views&color=FFD700&style=flat" alt="profile views"/>
 </p>
+
 ---
+
 ## 🚀 About Me
 
 - 🧠 Passionate about building meaningful, real-world tech.
