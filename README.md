@@ -36,7 +36,7 @@
 ### 💾 Database & Dev Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postman,git,github,vscode,idea,netbeans,figma,vercel,trello" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postman,git,github,vscode,idea,figma,vercel,trello" />
 </p>
 
 ---
