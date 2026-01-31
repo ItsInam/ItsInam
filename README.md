@@ -43,14 +43,14 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsInam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsInam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsInam&theme=tokyonight&hide_border=true" height="180px" />
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsInam/ItsInam/output/pacman-contribution-graph-dark.svg">
