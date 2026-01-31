@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsInam&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsInam&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsInam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsInam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180px" />
 </p>
 
 <p align="center">
