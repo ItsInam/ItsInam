@@ -14,6 +14,13 @@
   </a>
 </p>
 
+
+<!-- Git Koi -->
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Inam's GitHub Koi" />
+</p>
+
+
 ---
 
 ## 🚀 About Me
